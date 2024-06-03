@@ -1,3 +1,4 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3bee0a94747545ddbebcca64ed22cb24)](https://app.codacy.com/gh/samiulhaquereal/Flutter-Widgets/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 ## Widgets List:
 
 1. [Container](/lib/1_container/container.dart) > Simple intro > Neumorphic design
